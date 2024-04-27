@@ -1,3 +1,7 @@
 .parent {
    text-align: center;
 }
+.centered {
+   display: inline-block;
+   text-align: center; /*custom internal centering*/
+}
