@@ -6,10 +6,3 @@ center {
   font-style: italic;
 }
 
-#demo {
--moz-transform:none;
--webkit-transform:none;
--o-transform:none;
--ms-transform:none;
-transform:none;
-}
