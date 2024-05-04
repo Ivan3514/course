@@ -6,3 +6,13 @@ center {
   font-style: italic;
 }
 
+html {
+  background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.freepik.com%2Ffree-photos-vectors%2F%25D1%2584%25D0%25BE%25D0%25BD-%25D0%25B4%25D0%25BB%25D1%258F-%25D1%2581%25D0%25B0%25D0%25B9%25D1%2582%25D0%25B0&psig=AOvVaw21msX6nFOSUIDxtrebMuUV&ust=1714891028296000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJiK0_7084UDFQAAAAAdAAAAABAE);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
