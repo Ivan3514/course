@@ -2,7 +2,9 @@ body {
   font-family: 'Roboto', Arial, sans-serif;
 }
 
-
+center{
+  font:italic
+}  
 
 html {
   background-image: url(https://img.freepik.com/premium-photo/light-satin-soft-blue-abstract-creative-background-design_851755-210444.jpg?w=740);
