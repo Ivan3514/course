@@ -22,3 +22,9 @@ color: #000000;
 text-shadow: 1px 3px 0 #969696, 1px 13px 5px #C0C0C0;
 color: #000000;
 }
+
+.poetsen-one-regular {
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
